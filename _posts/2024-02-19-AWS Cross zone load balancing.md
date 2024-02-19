@@ -2,4 +2,4 @@
 title: "AWS Cross Zone Load Balancing"
 date: 2024-02-19
 ---
-![Book logo](../images/main-pic.png)
+![Book logo](aws-service-demo/assets/main-pic.png)
